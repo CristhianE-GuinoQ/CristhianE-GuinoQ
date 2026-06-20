@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=CristhianE-GuinoQ&label=Profile%20views&color=0e75b6&style=flat" alt="CristhianE-GuinoQ" />
 </p>
 
-🧑‍💻 Currently developing **software engineering projects**, including enterprise web applications, database solutions, and an **Institutional Visitor Management System**.
+🧑‍💻 Currently building software engineering projects, enterprise web applications, and innovative technology solutions.
 
 🌱 Currently learning and expanding my knowledge of **Laravel, PHP, PostgreSQL, JavaScript, REST APIs, Software Architecture, and Artificial Intelligence**.
 
