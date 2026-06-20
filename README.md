@@ -1,6 +1,6 @@
-<h1 align="center">Hey There, I'm <a href="https://github.com/CristhianE-GuinoQ" target="_blank">Cristhian Guiño</a> 👋</h1>
+<img width="871" height="457" alt="image" src="https://github.com/user-attachments/assets/4bcfaea6-2507-4311-9a3f-a7cfa1d76bf9" /><h1 align="center">Hey There, I'm <a href="https://github.com/CristhianE-GuinoQ" target="_blank">Cristhian Guiño</a> 👋</h1>
 
-<h3 align="center">Software Development Student from Peru 🇵🇪</h3>
+<h3 align="center"> Software Engineering Student | Full Stack & AI Enthusiast 🇵🇪 </h3>
 
 <p align="center">
   <a href="#" target="_blank">LinkedIn</a> - 
@@ -16,19 +16,19 @@
   <img src="https://komarev.com/ghpvc/?username=CristhianE-GuinoQ&label=Profile%20views&color=0e75b6&style=flat" alt="CristhianE-GuinoQ" />
 </p>
 
-🧑‍💻 Currently I’m working on **Sistema de Registro y Control de Visitas RENIEC**
+🧑‍💻 Currently developing **software engineering projects**, including enterprise web applications, database solutions, and an **Institutional Visitor Management System**.
 
-🌱 Diving deep into **Laravel, PHP, PostgreSQL, JavaScript & Web Development**
+🌱 Currently learning and expanding my knowledge of **Laravel, PHP, PostgreSQL, JavaScript, REST APIs, Software Architecture, and Artificial Intelligence**.
 
-👀 I’m interested in **Web Systems, Databases, UI Design, Dashboards and Technology Solutions**
+👀 Interested in **Software Engineering, Full Stack Development, Artificial Intelligence, Enterprise Systems, Database Design, UI/UX Design, and Data Analytics**.
 
-💬 You can ask me about **HTML, CSS, JavaScript, PHP, Laravel, SQL, Power BI, Figma and Technical Support**
+💬 Ask me about **HTML, CSS, JavaScript, PHP, Laravel, SQL, PostgreSQL, Database Modeling, Power BI, Figma, and Web Development**.
 
-📫 Reach me at cristihang929059499@gmail.com
+📫 Reach me at **cristihang929059499@gmail.com**
 
-🎓 Student at **SENATI - Desarrollo de Software**
+🎓 **Software Engineering Student | SENATI 🇵🇪**
 
-⚡ Focused on building **institutional systems, database models, dashboards and responsive web interfaces**
+⚡ Passionate about building **scalable software, enterprise systems, modern web applications, intelligent solutions, and responsive user interfaces**.
 
 <!-- About me ended -->
  
