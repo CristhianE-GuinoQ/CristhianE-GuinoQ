@@ -1,6 +1,6 @@
 <h1 align="center">Hey There, I'm <a href="https://github.com/CristhianE-GuinoQ" target="_blank">Cristhian Guiño</a> 👋</h1>
 
-<h3 align="center"> Software Engineering Student | Full Stack & AI Enthusiast 🇵🇪 </h3>
+<h3 align="center">Software Engineering Student | Web Development & Databases 🇵🇪</h3>
 
 <p align="center">
   <a href="#" target="_blank">LinkedIn</a> - 
