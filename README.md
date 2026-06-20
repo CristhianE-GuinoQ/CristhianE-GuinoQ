@@ -24,7 +24,7 @@
 
 💬 You can ask me about **HTML, CSS, JavaScript, PHP, Laravel, SQL, Power BI, Figma and Technical Support**
 
-📫 Reach me at **zozgamer28@gmail.com**
+📫 Reach me at cristihang929059499@gmail.com
 
 🎓 Student at **SENATI - Desarrollo de Software**
 
