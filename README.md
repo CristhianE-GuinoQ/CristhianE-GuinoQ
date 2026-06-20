@@ -101,11 +101,11 @@
 <!-- Knowledge ended -->
 
 <details>
- <summary><b>🚀 Main Project</b></summary><br>
+ <summary><b>🚀 Featured Projects</b></summary><br>
 
-### 🔐 Sistema de Registro y Control de Visitas RENIEC
+🔐 Institutional Visitor Management System
 
-Institutional web system for visitor registration, entry and exit control, daily statistics and report generation.
+Inspired by a real-world institutional visitor management workflow.
 
 **Main features:**
 
