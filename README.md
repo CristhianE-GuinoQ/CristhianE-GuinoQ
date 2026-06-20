@@ -16,19 +16,19 @@
   <img src="https://komarev.com/ghpvc/?username=CristhianE-GuinoQ&label=Profile%20views&color=0e75b6&style=flat" alt="CristhianE-GuinoQ" />
 </p>
 
-🧑‍💻 Currently developing **software engineering projects**, including enterprise web applications, database solutions, and an **Institutional Visitor Management System**.
+🧑‍💻 Currently I’m working on **Sistema de Registro y Control de Visitas RENIEC**
 
-🌱 Currently learning and expanding my knowledge of **Laravel, PHP, PostgreSQL, JavaScript, REST APIs, Software Architecture, and Artificial Intelligence**.
+🌱 Diving deep into **Laravel, PHP, PostgreSQL, JavaScript & Web Development**
 
-👀 Interested in **Software Engineering, Full Stack Development, Artificial Intelligence, Enterprise Systems, Database Design, UI/UX Design, and Data Analytics**.
+👀 I’m interested in **Web Systems, Databases, UI Design, Dashboards and Technology Solutions**
 
-💬 Ask me about **HTML, CSS, JavaScript, PHP, Laravel, SQL, PostgreSQL, Database Modeling, Power BI, Figma, and Web Development**.
+💬 You can ask me about **HTML, CSS, JavaScript, PHP, Laravel, SQL, Power BI, Figma and Technical Support**
 
-📫 Reach me at **cristihang929059499@gmail.com**
+📫 Reach me at cristihang929059499@gmail.com
 
-🎓 **Software Engineering Student | SENATI 🇵🇪**
+🎓 Student at **SENATI - Desarrollo de Software**
 
-⚡ Passionate about building **scalable software, enterprise systems, modern web applications, intelligent solutions, and responsive user interfaces**.
+⚡ Focused on building **institutional systems, database models, dashboards and responsive web interfaces**
 
 <!-- About me ended -->
  
