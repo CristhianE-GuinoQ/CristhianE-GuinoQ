@@ -5,7 +5,7 @@
 <p align="center">
   <a href="#" target="_blank">LinkedIn</a> - 
   <a href="https://github.com/CristhianE-GuinoQ" target="_blank">GitHub</a> -
-  <a href="mailto:zozgamer28@gmail.com" target="_blank">Email</a>
+  <a href="mailto:cristihang929059499@gmail.com" target="_blank">Email</a>
 </p> 
 
 --------------------------------------------
