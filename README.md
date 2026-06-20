@@ -141,7 +141,7 @@ Laravel, PHP, PostgreSQL, JavaScript, HTML, CSS, JWT, AdminLTE, jsPDF, ExcelJS
 <!-- GitHub Analytics ended -->
 
 <details open>
- <summary><b>💭 Personal Motto</b></summary><br>
+ <summary><b>✍️ Personal Motto</b></summary><br>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
