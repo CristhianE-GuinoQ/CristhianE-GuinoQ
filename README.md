@@ -1,4 +1,4 @@
-<img width="871" height="457" alt="image" src="https://github.com/user-attachments/assets/4bcfaea6-2507-4311-9a3f-a7cfa1d76bf9" /><h1 align="center">Hey There, I'm <a href="https://github.com/CristhianE-GuinoQ" target="_blank">Cristhian Guiño</a> 👋</h1>
+<h1 align="center">Hey There, I'm <a href="https://github.com/CristhianE-GuinoQ" target="_blank">Cristhian Guiño</a> 👋</h1>
 
 <h3 align="center"> Software Engineering Student | Full Stack & AI Enthusiast 🇵🇪 </h3>
 
