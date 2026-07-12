@@ -129,13 +129,19 @@ Laravel, PHP, PostgreSQL, JavaScript, HTML, CSS, JWT, AdminLTE, jsPDF, ExcelJS
 <!-- Main Project ended -->
 
 <details open>
+<details open>
  <summary><b>⚙️ GitHub Analytics</b></summary><br>
- <a href="https://github.com/CristhianE-GuinoQ">
-   
-   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=CristhianE-GuinoQ&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Cristhian's github stats" />
-   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=CristhianE-GuinoQ&theme=radical&hide_border=false" alt="Cristhian's github streak" /> 
-   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristhianE-GuinoQ&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Cristhian's top languages" /> 
- <br> </a>
+
+<a href="https://github.com/CristhianE-GuinoQ">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=CristhianE-GuinoQ&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Cristhian's github stats"/>
+
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=CristhianE-GuinoQ&theme=radical&hide_border=false" alt="Cristhian's github streak"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristhianE-GuinoQ&layout=compact&theme=radical&hide_border=false" alt="Cristhian's top languages"/>
+
+</a>
+
 </details>
 
 <!-- GitHub Analytics ended -->
